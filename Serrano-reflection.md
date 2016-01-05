@@ -1,0 +1,10 @@
+# GPS 1.1 - Version Control and Git
+## Reflection
+
+Going into the pairing session, I was struggling with how to handle the roadblocks that happen when you make mistakes in your workflow. For instance, what do you do when you accidentally make changes to a master branch before committing and want to switch these to a new branch? What about when merge conflicts arise?
+
+Coming out of the session, I definitely got a lot more clarity on how merge conflicts are fixed. They can still be scary at times, but knowing that you just have to fix the files they were in and re-add and commit is comforting. There's still some ambiguity as to what to do when you want to shift commited and uncommited changes to a new branch, but with further research, that should be cleared up. Going forward, managing branches will be a source of much confusion, especially in really tough merge conflicts, but hopefully with experience, we can make it through.
+
+It was comforting to know I could ask my pair and the guide for clarification if I needed help. Going forward with this idea that we should show our vulnerabilities when coding is hard to act on, but with the support of both the mentor and my pair, it was easier to ask questions about stuff like how to backtrack out of a mess like creating branches after commiting changes. It was also nice to ask about my pair's day as described in the instructional video. It helped break some tension while also verifying that we were ready to roar. I failed to clarify our ideas about what being driver and navigator meant, but I will keep that in mind for next time.
+
+Overall, the experience of GPS was good. As long as all parties have good faith in one another, the experience is one of growth rather than of being fearful of how others perceive you. It was a learning experience for future sessions to be very meticulous about going through the instructions carefully as well as learning how to interact with my peers. I look forward to more pairing sessions, both guided and unguided!
