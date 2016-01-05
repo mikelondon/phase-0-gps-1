@@ -16,4 +16,4 @@ Sick arithmetic!
 
 ![Alt text](/WorkingTogether.png)
 
-I will create a merge conflict! Mwuahahahaha
+This is Kevin's change on the awesome page!
