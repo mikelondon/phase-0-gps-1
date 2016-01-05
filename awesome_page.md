@@ -16,4 +16,5 @@ Sick arithmetic!
 
 ![Alt text](/WorkingTogether.png)
 
-This is Kevin's change on the awesome page!
+
+Encore!
