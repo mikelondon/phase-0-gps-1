@@ -15,3 +15,5 @@ Sick arithmetic!
 [Click here to go to GitHub, an awesome place to be!](https://github.com/)
 
 ![Alt text](/WorkingTogether.png)
+
+Encore!
